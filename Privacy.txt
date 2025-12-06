@@ -1,0 +1,143 @@
+Privacy Policy — Zikirmatik: Digital Tasbih and Reminder
+
+Effective date: 2025-12-06
+
+Developer: Koroghlu
+Contact: epicofkoroghlu@gmail.com
+
+1. Introduction
+
+Welcome to Zikirmatik: Digital Tasbih and Reminder. This Privacy Policy explains how the app works with respect to privacy, what data is stored on your device, and what (if anything) is shared with third parties. This policy uses plain language so you can quickly understand how your information is handled. If you have questions, contact us at epicofkoroghlu@gmail.com
+.
+
+2. Information We Do NOT Collect
+
+Zikirmatik is designed to be simple and privacy-friendly. The app does not do any of the following:
+
+Create user accounts.
+
+Collect, store, or transmit any personally identifiable information (PII) such as your name, email address, phone number, contacts, photos, files, GPS / precise location, or messages.
+
+Send any personal data from your device to the developer or to any server operated by the developer.
+
+In short: the developer does not receive or hold your personal content or app data.
+
+3. Information We Collect (App & Third Parties)
+
+From the app itself: The app does not collect data that is sent off the device. All user-created content (see Section 4) is stored locally and never leaves your device unless you explicitly export it yourself.
+
+From third parties (Advertising): When you view ads, third-party ad systems (Google AdMob) may collect device and usage information as explained in Section 5. The app does not control the data practices of third-party ad networks — those practices are governed by each network’s policies.
+
+4. Data Stored Locally on Your Device
+
+Zikirmatik stores the following items only on your device in local storage (for example, a local SQLite database or shared_preferences). This data is never uploaded or shared by the app:
+
+Dhikr history: name/label, date/time, and counts.
+
+User-created dhikr goals: titles, target counts, progress.
+
+Personal dhikr notes: any text notes you add.
+
+User settings: selected language, vibration/haptic preference, reminder settings, and other preferences.
+
+Access: Only you (via your device) have access to this data. The developer has zero access to these local files or databases.
+
+How to remove local data: You can delete these data by using the app’s built-in delete functions, by clearing app data in your device’s application settings, or by uninstalling the app.
+
+5. Advertising & Third-Party Data Collection (Google AdMob)
+
+Zikirmatik may show ads provided by Google AdMob. AdMob operates as an independent data controller for ad-related processing. The app itself does not collect or send personal data to AdMob — AdMob may collect data automatically when ads are displayed.
+
+Purpose of collection by AdMob:
+
+Deliver and personalize ads.
+
+Fraud prevention and security.
+
+Ad performance analytics and reporting.
+
+Types of data AdMob may collect:
+
+Device information (make/model, OS version, device identifiers).
+
+Advertising ID (AAID / IDFA) for ad personalization.
+
+IP address (may be used for approximate location).
+
+Ad interaction data (impression, clicks, conversions).
+
+Technical logs and aggregated usage statistics.
+
+This data is collected and processed by Google according to Google’s policies, not by the Zikirmatik app or developer. For details about how Google uses data for ads, see Google’s policy page:
+https://policies.google.com/technologies/ads
+
+GDPR / EEA & Consent:
+
+Where required by law (for example, in the European Economic Area), Zikirmatik integrates Google’s User Messaging Platform (UMP) to request and manage ad-consent from users.
+
+If you are in the EEA, you will be presented with a consent form to accept or decline personalized advertising.
+
+You may withdraw or change your consent at any time by opening the app’s privacy/ads settings (if provided) or by following Google’s opt-out mechanisms (device-level ad settings).
+
+How to control ad personalization:
+
+On Android: open your device Settings → Google → Ads → Opt out of Ads Personalization.
+
+Within the app: use any consent controls provided in the app’s settings.
+
+6. Permissions Used and Why
+
+Zikirmatik requests only a minimal set of permissions. Each is used for a clear, limited purpose:
+
+INTERNET — Required only to load advertisements. Core app features (counting, local history, goals, notes) work fully offline.
+
+VIBRATE — Used to provide optional haptic feedback while using the tasbih counter. You can disable vibration in app settings.
+
+POST_NOTIFICATIONS — Used to display user-configured reminder notifications for dhikr.
+
+RECEIVE_BOOT_COMPLETED — Allows scheduled reminders to be re-registered after a device reboot.
+
+SCHEDULE_EXACT_ALARM / USE_EXACT_ALARM — Used to schedule exact reminders at times you set. These permissions support reliable alarms and reminders.
+
+None of these permissions provide personal data to the developer; they enable local app behavior only.
+
+7. Children’s Privacy (COPPA and Equivalent Laws)
+
+Zikirmatik is not intended for children under 13 (or older where local law requires a higher age). The app does not knowingly collect personal information from children. If you believe that a child under the applicable age has provided personal information through the app, please contact us at epicofkoroghlu@gmail.com
+ and we will take steps to delete the data (note: the app stores data locally, so deletion instructions will be provided).
+
+8. Data Security
+
+All user-generated data described in Section 4 remains on your device. The app relies on the device operating system’s protections (Android’s app sandbox and storage protections).
+
+The app does not have any remote servers or cloud storage for user content; therefore, data is not transmitted to developer-controlled servers.
+
+While we take steps to keep local storage secure, no system is 100% secure. You should protect your device with a screen lock and avoid sharing device access with others.
+
+9. International Use & Languages
+
+Zikirmatik is available globally and supports 13 languages. We aim to comply with international privacy laws, including the GDPR (EU), COPPA (US), and other regional laws. If you are located in a jurisdiction with specific data privacy rights, you may exercise those rights as described in this policy (for local data, you control it by deleting or uninstalling the app; for ad-related data you may contact the ad provider).
+
+10. Your Rights & How to Exercise Them
+
+Because the app does not send personal data to the developer, most rights requests are managed on your device:
+
+Access / Portability / Deletion of local content: Use the app’s own settings to export or delete data, clear app data from your device settings, or uninstall the app to remove all local data.
+
+Ad data or ad personalization rights: For ad-related data held by Google, consult Google’s privacy tools or contact Google directly. You can also opt out of ad personalization on your device (see Section 5).
+
+For questions about how the app works or to request assistance, contact: epicofkoroghlu@gmail.com
+.
+
+11. Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in the app or legal requirements. If we make material changes, we will update the “Effective date” at the top of this page. Your continued use of the app after changes indicates acceptance of the revised policy.
+
+12. Contact Information
+
+If you have any questions, requests, or concerns about this policy or the app’s data practices, please contact:
+
+Koroghlu
+Email: epicofkoroghlu@gmail.com
+
+Short summary: Zikirmatik stores your dhikr history, goals, notes and settings only on your device. The developer does not receive or store your personal data. Ad display and related advertising data are handled solely by Google AdMob under Google’s privacy policies. If you want to remove your data, use the app’s delete functions, clear app data, or uninstall the app.
