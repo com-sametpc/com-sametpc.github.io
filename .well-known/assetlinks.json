@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "com.sametpc.zikirmatik",
+      "package_name": "com.sametpc.zikirmatik",
+      "sha256_cert_fingerprints": [
+        "D4:83:8D:D5:D3:52:E3:32:6E:06:F8:B2:07:56:9F:15:76:A5:18:01:0C:EA:A5:6E:AF:1C:24:C7:C3:A5:1E:B0"
+      ]
+    }
+  }
+]
