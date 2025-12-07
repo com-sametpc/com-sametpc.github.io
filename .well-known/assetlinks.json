@@ -1,11 +1,15 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.sametpc.zikirmatik",
-      "sha256_cert_fingerprints":
-        ["1D:4B:36:A4:46:7F:93:77:2B:CF:33:22:0E:ED:06:36:20:9D:D7:6C:54:96:74:4D:2D:0B:3A:A0:9D:DE:2B:C1"]
+      "sha256_cert_fingerprints": [
+        "1D:4B:36:A4:46:7F:93:77:2B:CF:33:22:0E:ED:06:36:20:9D:D7:6C:54:96:74:4D:2D:0B:3A:A0:9D:DE:2B:C1"
+      ]
     }
   }
 ]
